@@ -1,1 +1,1 @@
-<img src=x onload=alert(1)>
+[aaa](javascript:alert('Uh oh...'))
