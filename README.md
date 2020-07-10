@@ -1,5 +1,2 @@
-### I like to find security flaws, like this ones:
- - NBB: shorturl.at/fizJ1
- - Superlógica: shorturl.at/lCI12
-
+### I like to find security flaws
 Check my sec blog: http://0x00dreams.com/
