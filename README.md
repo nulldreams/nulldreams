@@ -26,6 +26,7 @@ As vezes eu posto alguma "operação" de sec no meu blog: http://0x00dreams.com/
 
 <h2 align="left"> 👨‍🎨 O que eu utilizo nos meus projetos pessoais? </h2>
 <p align="left">
+  <img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=%23FFF"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp;&nbsp;
