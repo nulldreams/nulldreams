@@ -2,9 +2,8 @@
 
 As vezes eu posto alguma "operação" de sec no meu blog: http://0x00dreams.com/
 
-🧙‍♂️
-<h2 align="center"> 👨‍🎨 O que eu utilizo no trabalho? </h2>
-<p align="center">
+<h2 align="left"> 🧙‍♂️ O que eu utilizo no trabalho? </h2>
+<p align="left">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -25,8 +24,8 @@ As vezes eu posto alguma "operação" de sec no meu blog: http://0x00dreams.com/
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center"> 👨‍🎨 O que eu utilizo nos meus projetos pessoais? </h2>
-<p align="center">
+<h2 align="left"> 👨‍🎨 O que eu utilizo nos meus projetos pessoais? </h2>
+<p align="left">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp;&nbsp;
