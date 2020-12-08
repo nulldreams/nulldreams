@@ -1,6 +1,6 @@
 <h2 align="left"> Olá, meu nome é Igor e trabalho com desenvolvimento web e segurança da informação. </h2>
 
-As vezes eu posto alguma "operação" de sec no meu blog: http://0x00dreams.com/
+<!--As vezes eu posto alguma "operação" de sec no meu blog: http://0x00dreams.com/-->
 
 <h2 align="left"> 🧙‍♂️ O que eu utilizo no trabalho? </h2>
 <p align="left">
