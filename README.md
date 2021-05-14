@@ -6,7 +6,7 @@
 
 <p align="left">
   🦄 Programming languages I have more experience: <strong>Javascript, Typescript.</strong><br>
-  🦄 Languages I've worked with: <strong>C#, Python, PHP, GO e Lua.</strong>
+  🦄 Languages I've worked with: <strong>C#, Python, PHP, GO and Lua.</strong>
 </p>
 
 <p align="left">
