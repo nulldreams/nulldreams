@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="...">
 
 <p align="left"> 
-  Hello, my name is Igor, I live in Brazil and I work as a Web Developer with experience in Pentest.<br>
+  Hello, my name is Igor, I live in Brazil and I work as a Web Developer with experience in Pentest and Game dev.<br>
 </p>
 
 <p align="left">
   🦄 Programming languages I have more experience: <strong>Javascript, Typescript.</strong><br>
-  🦄 Languages I've worked with: <strong>C#, Python, PHP, GO and Lua.</strong>
+  🦄 Languages I've worked with: <strong>C#, Python, PHP, GO, GDScript and Lua.</strong>
 </p>
 
 <p align="left">
