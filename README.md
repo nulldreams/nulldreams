@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="...">
+<a href="https://app.daily.dev/0x00dreams"><img src="https://api.daily.dev/devcards/71e5eef21756440d85a883487ec010ce.png?r=81k" width="400" alt="0x00dreams's Dev Card" align="right"/></a>
 
 <p align="left"> 
   Hello, my name is Igor, I live in Brazil and I work as a Web Developer with experience in Pentest and Game dev.<br>
